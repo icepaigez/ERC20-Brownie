@@ -4,7 +4,7 @@
 ## General Info
 The tokens can be accessed on the Kovan network at the following addresses:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CakeToken - '0x0151FbFE3afB4260b39F10331C98bF4C5815f60C'  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FishToken - '0x0151FbFE3afB4260b39F10331C98bF4C5815f60C'  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FishToken - '0xFa145Bd731A4576BAD7D0a31A766a31e2D820ED1'  
 
 
 ## Inspiration
